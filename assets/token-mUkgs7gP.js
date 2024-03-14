@@ -1,0 +1,1 @@
+import{r as o,d as s,j as n}from"./index-rHpoA5PS.js";function i(){const[r,t]=o.useState(""),a=s();return o.useEffect(()=>{(()=>{const e="fkw934FJfi3dfi3@1d3";t(e),console.log(e),document.cookie=`myToken=${e}`,a("/",{replace:!0})})()},[]),n.jsx(n.Fragment,{children:n.jsx("p",{style:{color:"white"},children:"Handling"})})}export{i as default};

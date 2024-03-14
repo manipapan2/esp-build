@@ -1,0 +1,1 @@
+.aboutus-container{padding:30px}.aboutus-container .intro-container:nth-child(2n){flex-direction:row-reverse}@media screen and (max-width: 768px){.aboutus-container .intro-container:nth-child(2n){flex-direction:column-reverse}}
